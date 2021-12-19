@@ -1,0 +1,40 @@
+html {
+    background-color: black;
+    text-align: center;
+    font-size: 16px;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+
+/* Header */
+h1 {
+    font-family: Verdana;
+    font-size: 3.125rem;
+    color: white;
+    font-weight: normal;
+}
+h5 {
+    color: aquamarine;
+    font-size: 1rem;
+    text-decoration: underline;
+}
+
+/* Main section */
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 2.625rem;
+    color: white;
+}
+h4 {
+    font-family: Verdana;
+    font-size: 1.3125rem;
+    color:gray;
+}
+h3 {
+    color: gray;
+    text-align: right;
+    font-size: 1.3125rem;
+}
